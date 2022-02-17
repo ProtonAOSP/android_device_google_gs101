@@ -271,5 +271,5 @@
     <bool name="config_supportGloveMode">true</bool>
 
     <!-- Exempt ImsService from privacy (location) indicators -->
-    <string name="config_systemAudioIntelligence" translatable="false">com.shannon.imsservice</string>
+    <string name="config_systemTelephonyPackage" translatable="false">com.shannon.imsservice</string>
 </resources>
